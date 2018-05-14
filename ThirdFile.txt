@@ -1,1 +1,2 @@
-Some Text is added
+Some Text ...
+New Text is added
